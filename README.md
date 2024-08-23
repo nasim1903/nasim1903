@@ -3,13 +3,6 @@
   <p>🚀 Junior Developer</p>
 </div>
 
-## 🌟 About Me
-
-- 🎓 I'm a passionate junior developer with a focus on .NET and C#.
-- 📈 My journey began in the SEO space, where I discovered the power of technical optimizations for search engines.
-- 🧠 Eager to learn, I've now ventured into the realm of AI to supercharge SEO efforts.
-- 🌐 My goal is to create innovative tools that revolutionize the way we approach search engine optimization.
-
 ## 🔧 Technologies & Tools
 
 I enjoy working with a wide range of technologies and tools. Here are some of my favorites:

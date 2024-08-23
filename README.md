@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Hi! I'm Nasim</h1>
   <p>🚀 Junior Developer</p>
-  <p>Welcome to my GitHub repository, where I love to tinker with code, conquer SEO challenges, and build cool AI tools for SEO optimization!</p>
 </div>
 
 ## 🌟 About Me
